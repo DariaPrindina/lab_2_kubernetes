@@ -71,7 +71,7 @@ kubectl apply -f manifests/
 
 ![alt text](screenshots/image-12.png)
 
-![alt text](image.png)
+![alt text](screenshots/image.png)
 
 ## 2 часть
 
